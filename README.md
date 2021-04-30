@@ -1,2 +1,2 @@
 # Heart-Disease-Diagnosis
-Different models used to analyze the UCI heart disease dataset
+Project aimed at using different models to analyze the UCI heart disease dataset
